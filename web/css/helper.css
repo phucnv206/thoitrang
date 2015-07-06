@@ -1,0 +1,77 @@
+.text-14{
+    font-size: 14px;
+}
+.text-24{
+    font-size: 24px;
+}
+.text-30{
+    font-size: 30px;
+}
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.pull-left{
+    float: left;
+}
+.pull-right{
+    float: right;
+}
+.display-block{
+    display: block;
+}
+ul:after,nav:after,.clearboth:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.padding-25{
+    padding: 25px;
+}
+.padding-left-30{
+    padding-left: 30px;
+}
+.padding-v-10{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.padding-v-30{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.margin-top-10{
+    margin-top: 10px;
+}
+.margin-top-25{
+    margin-top: 25px;
+}
+.margin-bottom-10{
+    margin-bottom: 10px;
+}
+.margin-bottom-30{
+    margin-bottom: 20px;
+}
+.v-middle{
+    vertical-align: middle;
+}
+.form-group{
+    display: table;
+    width: 100%;
+}
+.form-control{
+    display: table-cell;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    vertical-align: middle;
+    font-size: inherit;
+    padding: 0;
+}
+.btn-group{
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 10px;
+    padding-right: 10px;
+}
